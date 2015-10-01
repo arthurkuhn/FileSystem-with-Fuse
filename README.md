@@ -1,7 +1,7 @@
 
 # A Simple Mountable File System
 
-This is part of a project for the Operating Systems class at McGill.
+This is part of a project for the Operating Systems class at McGill. Check out the [website here] (http://arthurkuhn.github.io/FileSystemWithFuse/).
 
 ## Goal
 The goal of this project is to design and implement a simple file system (SFS) that can be mounted by the user under a directory in the user’s machine. Due to compatibility constraints, this program is built to work under linux only (although it could be adapted to other OSs).
